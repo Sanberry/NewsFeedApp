@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="no_news">No news found.</string>
+    <string name="no_internet_connection">Please check your internet connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Feed Settings</string>
+
+    <string name="settings_section_world_news_label">World news</string>
+    <string name="settings_section_world_news_value" translatable="false">world</string>
+
+    <string name="settings_section_politics_label">Politics</string>
+    <string name="settings_section_politics_value" translatable="false">politics</string>
+
+    <string name="settings_section_sport_label">Sport</string>
+    <string name="settings_section_sport_value" translatable="false">sport</string>
+
+    <string name="settings_section_technology_label">Technology</string>
+    <string name="settings_section_technology_value" translatable="false">technology</string>
+
+    <string name="settings_section_label">Show Selected</string>
+    <string name="settings_section_key" translatable="false">section</string>
+    <string name="settings_section_key_default" translatable="false">politics</string>
+</resources>
